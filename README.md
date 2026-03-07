@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tennine</h1>
+<h1 align="center">Hi 👋, I'm Tennine (Liu Xianjie)</h1>
 <h3 align="center">Master's Candidate at Sichuan University | Deep Learning Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tennine2077&label=Profile%20views&color=0e75b6&style=flat" alt="tennine2077" /> </p>
