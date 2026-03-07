@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tennine (Liu Xianjie)</h1>
+<h1 align="center">Hi 👋, I'm Tennine</h1>
 <h3 align="center">Master's Candidate at Sichuan University | Deep Learning Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tennine2077&label=Profile%20views&color=0e75b6&style=flat" alt="tennine2077" /> </p>
@@ -37,6 +37,40 @@
 
 <table>
 <tr>
+<td width="50%">
+<h3 align="center">PDFNet</h3>
+<div align="center">
+<a href="https://github.com/Tennine2077/PDFNet" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+</a>
+<img src="https://img.shields.io/badge/CVPR-2026-red?style=for-the-badge" alt="CVPR 2026"/>
+<br />
+<p>High-Precision Dichotomous Image Segmentation via Depth Integrity-Prior and Fine-Grained Patch Strategy</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">DIS-SAM</h3>
+<div align="center">
+<a href="https://github.com/Tennine2077/DIS-SAM" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+</a>
+<img src="https://img.shields.io/badge/ICME-2025-orange?style=for-the-badge" alt="ICME 2025"/>
+<br />
+<p>Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">HiDe</h3>
+<div align="center">
+<a href="https://github.com/Tennine2077/HiDe" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+</a>
+<br />
+<p>Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling</p>
+</div>
+</td>
 <td width="50%">
 <h3 align="center">Awesome-Dichotomous-Image-Segmentation</h3>
 <div align="center">
