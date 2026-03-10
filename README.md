@@ -83,7 +83,3 @@
 </td>
 </tr>
 </table>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tennine2077&show_icons=true&locale=en" alt="tennine2077" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tennine2077&" alt="tennine2077" /></p>
