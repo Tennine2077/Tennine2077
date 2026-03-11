@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on **Deep Learning**
 
-- 🌱 I'm currently learning **Computer Vision & Image Segmentation**
+- 🌱 I'm currently learning **CV & Multimodal Large Language Models**
 
 - 📫 How to reach me: Check my GitHub profile email
 
