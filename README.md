@@ -7,6 +7,9 @@
   - 2024 - 2027: Master's Candidate at Sichuan University
   - 2020 - 2024: Undergraduate at Sichuan University
 
+- 💼 **Experience**
+  - 2025.05 - 2026.02: Research Intern @ 阿里妈妈
+
 - 🔭 I'm currently working on **Deep Learning**
 
 - 🌱 I'm currently learning **CV & Multimodal Large Language Models**
@@ -14,6 +17,8 @@
 - 📫 How to reach me: Check my GitHub profile email
 
 - ⚡ Fun fact: I love exploring new AI technologies!
+
+- 🙏 Special thanks to all collaborators at 阿里妈妈 for your trust and support during my internship!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,6 +43,17 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">HiDe</h3>
+<div align="center">
+<a href="https://github.com/Tennine2077/HiDe" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+</a>
+<img src="https://img.shields.io/badge/ICML-2026-purple?style=for-the-badge" alt="ICML 2026"/>
+<br />
+<p>Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling</p>
+</div>
+</td>
+<td width="50%">
 <h3 align="center">PDFNet</h3>
 <div align="center">
 <a href="https://github.com/Tennine2077/PDFNet" target="_blank">
@@ -48,6 +64,8 @@
 <p>High-Precision Dichotomous Image Segmentation via Depth Integrity-Prior and Fine-Grained Patch Strategy</p>
 </div>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <h3 align="center">DIS-SAM</h3>
 <div align="center">
@@ -57,18 +75,6 @@
 <img src="https://img.shields.io/badge/ICME-2025-orange?style=for-the-badge" alt="ICME 2025"/>
 <br />
 <p>Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">HiDe</h3>
-<div align="center">
-<a href="https://github.com/Tennine2077/HiDe" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
-</a>
-<br />
-<p>Rethinking The Zoom-IN method in High Resolution MLLMs via Hierarchical Decoupling</p>
 </div>
 </td>
 <td width="50%">
