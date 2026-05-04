@@ -8,6 +8,7 @@
   - 2020 - 2024: Undergraduate at Sichuan University
 
 - 💼 **Experience**
+  - 2026.05 - Present: Research Intern @ 蚂蚁集团 (蚂蚁星 Plan A)
   - 2025.05 - 2026.02: Research Intern @ 阿里妈妈
 
 - 🔭 I'm currently working on **Deep Learning**
