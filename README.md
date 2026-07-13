@@ -8,7 +8,7 @@
   - 2020 - 2024: Undergraduate at Sichuan University
 
 - 💼 **Experience**
-  - 2026.06 - Present: 暑期实习生（青云计划）@ 腾讯优图实验室 (Tencent Youtu Lab) - Researching Native Multimodal Large Models, Foundation Models, Pre-training
+  - 2026.06 - Present: 暑期实习生（青云计划 / Project UP）@ 腾讯优图实验室 (Tencent Youtu Lab) - Researching Native Multimodal Large Models, Foundation Models, Pre-training
   - 2025.05 - 2026.02: Research Intern @ 阿里妈妈
 
 - 🔭 I'm currently working on **Deep Learning**
