@@ -8,12 +8,12 @@
   - 2020 - 2024: Undergraduate at Sichuan University
 
 - 💼 **Experience**
-  - 2026.06 - Present: 暑期实习生（青云计划 / Project UP）@ 腾讯优图实验室 (Tencent Youtu Lab) - Researching Native Multimodal Large Language Models, Foundation Models, Pre-training
+  - 2026.06 - Present: 暑期实习生（青云计划 / Project UP）@ 腾讯优图实验室 (Tencent Youtu Lab) - Researching Native Multimodal Large Language Models, Pre-training
   - 2025.05 - 2026.02: Research Intern @ 阿里妈妈 - Researching Multimodal Large Language Models
 
-- 🔭 I'm currently working on **Deep Learning**
+- 🔭 I'm currently working on **Artificial Intelligence**
 
-- 🌱 I'm currently learning **CV & Multimodal Large Language Models**
+- 🌱 I'm currently learning **Agentic & Multimodal Large Language Models**
 
 - 📫 How to reach me: Check my GitHub profile email
 
